@@ -1,4 +1,4 @@
-# Code Challenge for GrupoA - V1
+# Code Challenge for GrupoA - Backend
 
 
 ## Frameworks / Tecnologias utilizadas
